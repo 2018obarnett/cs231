@@ -1,0 +1,4 @@
+Owen Barnett
+
+I will be using my computer, a mac, to run kali; I have successfully installed kali and checked to make sure it works. 
+I'm excited to learn more about computer security this term. I found it ironic that when installing kali for a computer security course, I had to disable parts of my firewall and give the program access to all parts of my computer. 
