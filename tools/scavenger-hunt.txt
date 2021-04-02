@@ -1,0 +1,12 @@
+Owen Barnett 
+
+I have a mac some I will give commands that work in a macOS terminal. 
+
+1. To get my IP address, I used the command ipconfig getifaddr en0, and my IP address is 137.22.172.160. This command gives the wireless IP address. To get the ethernet IP address do ipconfig getifaddr en1.
+2. I could not find an easy command on macOS to do it, but on linux, you can do hostname -i to get the IP address for hostname.
+3. I would use the command host IP where IP is the IP address.
+4. I would use scp filename file_destination where filename is the file I want to copy and file_destination is the place I want to copy the file to.
+5. I would use telnet hostname portnumber where hostname is the host name and portnumber is the port number.
+6. I would use netsat hostname where hostname is the host name.
+7. For the example carleton.edu I would do wget "http://carleton.edu/" -O destination where destination is where I want to car the file.
+8. For the google example, I would use curl -i http://google.com/
